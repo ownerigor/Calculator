@@ -1,0 +1,15 @@
+/home/igor/Documentos/Projetos/C#/Calculator/bin/Debug/net7.0/Calculator
+/home/igor/Documentos/Projetos/C#/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/home/igor/Documentos/Projetos/C#/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/home/igor/Documentos/Projetos/C#/Calculator/bin/Debug/net7.0/Calculator.dll
+/home/igor/Documentos/Projetos/C#/Calculator/bin/Debug/net7.0/Calculator.pdb
+/home/igor/Documentos/Projetos/C#/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/home/igor/Documentos/Projetos/C#/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Documentos/Projetos/C#/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/home/igor/Documentos/Projetos/C#/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/home/igor/Documentos/Projetos/C#/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/home/igor/Documentos/Projetos/C#/Calculator/obj/Debug/net7.0/Calculator.dll
+/home/igor/Documentos/Projetos/C#/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/home/igor/Documentos/Projetos/C#/Calculator/obj/Debug/net7.0/Calculator.pdb
+/home/igor/Documentos/Projetos/C#/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/home/igor/Documentos/Projetos/C#/Calculator/obj/Debug/net7.0/ref/Calculator.dll
